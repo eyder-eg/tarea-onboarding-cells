@@ -3,7 +3,7 @@ class MyComponent extends HTMLElement {
     this.innerHTML = `
       <div>
         <h1>Un Componente de ejemplo</h3>
-        <p>Texto de mi rama Master</p>
+        <p>Texto de feature/my-component</p>
       </div>
     `;
   }
